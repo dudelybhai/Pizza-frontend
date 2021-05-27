@@ -1,3 +1,7 @@
+node_modules/
+Dockerfile
+*.log
 .git
-node_modules
-npm-debug
+.gitignore
+.DS_Store
+.idea
